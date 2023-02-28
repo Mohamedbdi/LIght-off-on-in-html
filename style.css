@@ -1,0 +1,24 @@
+*{
+    font-family: arial bold;
+    font-size: 40px;
+    width: 100px;
+    text-align: center;
+    margin-left: 15%;
+    margin-top: 15%;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+
+}
+.one{
+    background-color: blueviolet;
+    color: white;
+}
+.two{
+    background-color: chocolate;
+    color: white;
+}
+img{
+    width: 200px;
+}
